@@ -1,9 +1,8 @@
 # Mongoose TypeScript less code with vscode debug feature 
-use the typescript features for mongoose,
+use the typescript features for mongoose
 
 #### Patterns and Principles in this project:
 - Singleton Pattern
-- Multi-layer Architecture Pattern
 
 #### Addtional feature:
 - Fast compile and reload
@@ -35,4 +34,4 @@ if not executing from VSCode:
 > gulp 
 
 ## REST API Definitions:
-
+    will be displayed in the console
